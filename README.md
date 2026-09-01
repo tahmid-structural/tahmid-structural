@@ -29,9 +29,6 @@ I am a Civil Engineering undergraduate developing my skills in structural analys
 ### Structural Engineering Projects
 Coming soon...
 
-### Computational & Python Projects
-Coming soon...
-
 ### Research & Thesis
 Coming soon...
 
