@@ -4,7 +4,7 @@
 
 Welcome to my engineering portfolio.
 
-I am a Civil Engineering undergraduate developing my skills in structural analysis, structural design, engineering software, computational methods, and research.
+I am a Civil Engineering undergraduate developing my skills in structural analysis, structural design, engineering software, computational methods and research.
 
 ## 🏗️ Areas of Interest
 
