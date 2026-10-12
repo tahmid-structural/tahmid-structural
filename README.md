@@ -27,7 +27,8 @@ I am a Civil Engineering undergraduate developing my skills in structural analys
 ## 📂 Portfolio
 
 ### Structural Engineering Projects
-Coming soon...
+- G+9-RC-Residential-Building-ETABS
+- 3-Story-Steel-Building-SAP2000
 
 ### Research & Thesis
 Coming soon...
