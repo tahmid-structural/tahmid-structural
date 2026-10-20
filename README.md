@@ -42,4 +42,4 @@ Undergraduate Student
 
 LinkedIn: www.linkedin.com/in/mohammad-tahmid-alahe 
 
-Email: Coming soon
+Email: mohammadtahmidalahe@gmail.com
