@@ -40,5 +40,5 @@ Undergraduate Student
 
 ## 📫 Contact
 
-LinkedIn: Coming soon  
+LinkedIn: www.linkedin.com/in/mohammad-tahmid-alahe 
 Email: Coming soon
